@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "name": "ObstacleAssault",
+      "path": "."
+    },
+    {
+      "name": "UE5",
+      "path": "/Users/Shared/Epic Games/UE_5.0"
+    }
+  ],
+  "settings": {
+    "typescript.tsc.autoDetect": "off",
+    "workbench.colorCustomizations": {
+      "[Atom One Dark]": {
+        "editorInlayHint.foreground": "#abb2bf",
+        "editorInlayHint.background": "#282c34",
+        "editorInlayHint.typeForeground": "#abb2bf",
+        "editorInlayHint.parameterForeground": "#282c34"
+      }
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.cpptools",
+      "ms-dotnettools.csharp",
+      "vadimcn.vscode-lldb",
+      "ms-vscode.mono-debug",
+      "dfarley1.file-picker"
+    ]
+  }
+}
